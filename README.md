@@ -9,6 +9,7 @@ Easy way to install mods for the server while figuring them all out...
 
 # Updater
 I have created a couple of bat files which automatically download all the mod files when run.
+Place them in the main game files folder (the folder with the .exe file)
 > Git is REQUIRED for them to function:
 > https://git-scm.com/downloads
 - The LMPMods_Update.bat will download any new mods, and update any files in the GameData.
