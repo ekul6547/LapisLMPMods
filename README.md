@@ -9,8 +9,8 @@ Easy way to install mods for the server while figuring them all out...
 
 # Updater
 I have created a couple of bat files which automatically download all the mod files when run.
-The LMPMods_Update.bat will download any new mods, and update any files in the GameData.
-The LMPMods_Reset.bat will delete all files in the .git and GameData folders, except the default "Squad" and "SquadExpansion" folders.
+- The LMPMods_Update.bat will download any new mods, and update any files in the GameData.
+- The LMPMods_Reset.bat will delete all files in the .git and GameData folders, except the default "Squad" and "SquadExpansion" folders.
 The require git to function:
 https://git-scm.com/downloads
 
