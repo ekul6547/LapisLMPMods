@@ -25,3 +25,4 @@ Initial Setup
 Downloading the mods:
 1) Open command prompt / powershell in the .exe directory
 2) Enter command: git pull origin master
+3) If it says abort or something bad sounding, contact me.
