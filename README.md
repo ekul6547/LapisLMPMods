@@ -2,14 +2,14 @@
 Easy way to install mods for the server while figuring them all out...
 
 # Instructions
-> Click the "Clone or Download" button
-> Download Zip
-> Copy contents of GameData folder to KSP GameData folder
-(If you know how to use git, you can use that instead, much easier)
+1) Click the "Clone or Download" button
+2) Download Zip
+3) Copy contents of GameData folder to KSP GameData folder
 
 
-
-Using git for this:
+#Using git
+- Only if you want to use git for this.
+- May end in a bit of failure because reasons.
 
 Initial Setup
 1) Install git on your computer
@@ -22,7 +22,7 @@ Initial Setup
 6) Enter command: git remote add origin https://github.com/ekul6547/LapisLMPMods.git
 
 
-Downloading the mods:
+Downloading / updating the mods:
 1) Open command prompt / powershell in the .exe directory
 2) Enter command: git pull origin master
 3) If it says abort or something bad sounding, contact me.
