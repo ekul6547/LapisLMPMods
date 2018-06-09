@@ -7,7 +7,7 @@ Easy way to install mods for the server while figuring them all out...
 3) Copy contents of GameData folder to KSP GameData folder
 
 
-#Using git
+# Using git
 - Only if you want to use git for this.
 - May end in a bit of failure because reasons.
 
