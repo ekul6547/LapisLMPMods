@@ -16,4 +16,8 @@
     <CraftLibraryInterval>载具库请求间隔为 $1 秒。此时无法处理此请求</CraftLibraryInterval>
     <ScreenshotTaken>截图已上传！</ScreenshotTaken>
     <ImageSaved>图片已保存至 GameData/LunaMultiplayer/Screenshots</ImageSaved>
+    <IncreasedInterpolationOffset>Warning! Your interpolation offset has been increased as it was too low for this server</IncreasedInterpolationOffset>
+    <SackingKerbalsNotAllowed>This server does not allow firing kerbals</SackingKerbalsNotAllowed>
+    <CannotLoadGames>LMP does not allow loading savegames</CannotLoadGames>
+    <KerbalNotYours>Another player is using this kerbal</KerbalNotYours>
 </ScreenText>
