@@ -1,6 +1,6 @@
 @ECHO OFF
 
-IF EXIST GameData\(
+IF EXIST GameData\ (
 IF NOT EXIST .git\ (
 call git init
 call git remote add origin https://github.com/ekul6547/LapisLMPMods.git
