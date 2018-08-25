@@ -9,6 +9,7 @@
         <FieldDefinition>
             <FieldName>manuallyOverridden</FieldName>
             <Ignore>false</Ignore>
+            <ServerIgnore>false</ServerIgnore>
             <IgnoreSpectating>false</IgnoreSpectating>
             <Interval>600000</Interval>
             <SetValueInModule>false</SetValueInModule>
@@ -16,6 +17,11 @@
             <CallOnAwake>true</CallOnAwake>
             <CallOnLoad>true</CallOnLoad>
             <CallOnStart>true</CallOnStart>
+        </FieldDefinition>
+        <!--Flameout. On SSME, can be triggered but not in the context of running out of oxidizer (might check).-->
+        <FieldDefinition>
+            <FieldName>flameout</FieldName>
+            <Ignore>true</Ignore>
         </FieldDefinition>
     </Fields>
 </ModuleDefinition>
