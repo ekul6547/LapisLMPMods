@@ -5,7 +5,6 @@ Password for the server is "lapisLMP"
 
 Info can be found on the discord:
 https://discord.gg/xtkPRW4
-Ask for the KSP access, I will try to answer asap.
 
 # Instructions
 > If you want easier updating, look below
