@@ -22,7 +22,7 @@ Place them in the main game files folder (the folder with the .exe file)
 
 If anything goes wrong, contact me on the discord.
 Link: https://discord.gg/xtkPRW4
-
+Username: ekulstorm
 # Using git
 - Only if you want to use git for this.
 - May end in a bit of failure because reasons.
